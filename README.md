@@ -20,4 +20,3 @@ Adaptation to external and internal changes is major for robotic systems in unce
      - a unique catkin_ws must be created containing MAIC_src, Camera_src and franka interface controller_src folders. 
   
 
-- 
